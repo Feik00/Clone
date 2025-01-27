@@ -1,1 +1,4 @@
 Plik tekstowy
+1test
+2kopia
+itd
