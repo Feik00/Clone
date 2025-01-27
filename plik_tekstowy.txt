@@ -1,0 +1,3 @@
+oplik tekstowy 
+test
+123
